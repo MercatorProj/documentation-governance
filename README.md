@@ -1,6 +1,6 @@
 # Documentation Governance Skill
 
-Version: `1.0.0`
+Version: `1.0.1`
 
 A reusable skill for organizing project documentation, maintaining code/documentation traceability, validating quality, and delivering a VitePress site for local viewing and offline distribution.
 

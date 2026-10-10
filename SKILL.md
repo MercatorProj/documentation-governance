@@ -1,8 +1,8 @@
 ---
 name: documentation-governance
-description: Govern project documentation as an engineering asset: inventory and organize docs, map documentation to authoritative code/spec sources, detect drift, validate links and metadata, and build VitePress sites for local viewing and offline delivery. Use when a user asks to organize, audit, synchronize, migrate, document, or package project documentation. Do not use as a substitute for product decisions, business-domain approval, or code refactoring.
+description: "Govern project documentation as an engineering asset: inventory and organize docs, map documentation to authoritative code/spec sources, detect drift, validate links and metadata, and build VitePress sites for local viewing and offline delivery. Use when a user asks to organize, audit, synchronize, migrate, document, or package project documentation. Do not use as a substitute for product decisions, business-domain approval, or code refactoring."
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   license: MIT
   topics: [documentation, governance, vitepress, codex]
 ---
